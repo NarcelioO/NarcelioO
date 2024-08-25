@@ -6,7 +6,7 @@ export const narcelio = {
             location     : 'Ceará, Brazil'
         },
   skills: {
-            languages  : ['JavaScript', 'TypeScript', 'Python', 'Java'],
+            languages  : ['JavaScript', 'TypeScript', 'Python'],
             style:['Css', 'Scss', 'Tailwind'],
             databases  : ['MySQL', 'PostgreSQL'],
             libsAndFrameworks: ['ReactJs', 'NextJs', 'Vue'],
