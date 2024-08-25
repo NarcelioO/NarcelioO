@@ -8,7 +8,7 @@ export const narcelio = {
   skills: {
             languages  : ['JavaScript', 'TypeScript', 'Python', 'Java'],
             style:['Css', 'Scss', 'Tailwind'],
-            databases  : ['MySQL', 'MongoDB', 'PostgreSQL'],
+            databases  : ['MySQL', 'PostgreSQL'],
             libsAndFrameworks: ['ReactJs', 'NextJs', 'Vue'],
             platforms : ['Node.js','Git'],
             tools : ['VScode', 'Postman','Figma'],
