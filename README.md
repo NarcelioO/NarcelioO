@@ -9,7 +9,7 @@ export const narcelio = {
             languages  : ['JavaScript', 'TypeScript', 'Python', 'Java'],
             style:['Css', 'Scss', 'Tailwind'],
             databases  : ['MySQL', 'MongoDB', 'PostgreSQL'],
-            libsAndFrameworks: ['ReactJs', 'NextJs', 'Vue', 'NuxtJs'],
+            libsAndFrameworks: ['ReactJs', 'NextJs', 'Vue'],
             platforms : ['Node.js','Git'],
             tools : ['VScode', 'Postman','Figma'],
             others : ['Wordpress', 'Strapi']
