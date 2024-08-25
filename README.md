@@ -11,7 +11,8 @@ export const narcelio = {
             databases  : ['MySQL', 'MongoDB', 'PostgreSQL'],
             libsAndFrameworks: ['ReactJs', 'NextJs', 'Vue', 'NuxtJs'],
             platforms : ['Node.js','Git'],
-            tools : ['VScode', 'Postman']
+            tools : ['VScode', 'Postman','Figma']
+            others : ['Wordpress', 'Strapi']
         }
 }
 ```
