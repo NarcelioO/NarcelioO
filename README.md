@@ -1,16 +1,14 @@
-## Hi there 👋
-
-<!--
-**NarcelioO/NarcelioO** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+export const narcelio = {
+  bio   : {
+            name         : 'Narcelio Oliveira',
+            description  : 'Front-end Developer',
+            location     : 'Ceará, Brazil'
+        },
+  skills: {
+            languages  : ['JavaScript','TypeScript', 'Python', 'Java'],
+            databases  : ['MySQL', 'MongoDB', 'PostgreSQL'],
+            libsAndFrameworks: ['React', NextJs Vue, NuxtJs],
+            platforms : ['Node.js','Git'],
+            tools : ['VScode', 'Postman']
+        }
+}
