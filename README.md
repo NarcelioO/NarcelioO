@@ -2,7 +2,7 @@
 export const narcelio = {
   bio   : {
             name         : 'Narcelio Oliveira',
-            description  : 'Front-end Developer',
+            description  : 'Full-Stack Developer',
             location     : 'Ceará, Brazil'
         },
   skills: {
