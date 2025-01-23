@@ -7,7 +7,7 @@ export const narcelio = {
         },
   skills: {
             languages  : ['PHP', 'JavaScript'],
-            style:['css', 'scss', 'Tailwind'],
+            style:['css', 'scss', 'Tailwind', 'Bootstrap'],
             databases  : ['MySQL', 'PostgreSQL'],
             libsAndFrameworks: ['Vue', 'Laravel'],
             platforms : ['Node.js', 'Git'],
