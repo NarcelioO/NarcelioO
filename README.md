@@ -4,7 +4,7 @@
 
 ## 🌟 Informações Públicas
 
-Meu nome é **Narcelio**. Atualmente, moro em **Jaguaribem Ceará** e meu objetivo ajudar outras pessoas a alcançar seus objetivos e construir coisas diferentes e divertidas. 🚀
+Meu nome é **Narcelio**. Atualmente, moro em **Ceará, Brasil** e meu objetivo ajudar outras pessoas a alcançar seus objetivos e construir coisas diferentes e divertidas. 🚀
 
 No meu tempo livre, gosto de estudar e consumir diversos assuntos: jogos, música, design e temas relacionados à criatividade em geral. Nessas explorações, aprendo coisas interessantes e descubro mais sobre meu próprio jeito e estilo de criar. Busco me envolver em projetos, iniciativas e grupos onde posso expressar e desenvolver ainda mais esse meu lado criativo. 🤝
 
