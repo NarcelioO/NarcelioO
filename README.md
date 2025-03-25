@@ -19,7 +19,7 @@ No meu tempo livre, gosto de estudar e consumir diversos assuntos: jogos, músic
 
 ## 😎 Curiosidades sobre Mim
 
-- 🎸 Sou apaixonado(a) por música e, ao longo dos anos, explorei diversos instrumentos e estilos. 
+- 🎸 Sou apaixonado(a) por música e, ao longo dos anos, explorei diversos estilos e gosto de estar sempre descobrindo sons e expressões musicais novas, alem de tentar tocar guitarra. 
 - 💡 Comecei a programar em **[2016]** e, desde então, venho me desafiando e aprendendo coisas novas.   
 - 🤗 Acredito no poder da colaboração e estou sempre disposto(a) a ajudar e aprender com quem busca evoluir na área de tecnologia.   
 ---
